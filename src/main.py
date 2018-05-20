@@ -1,10 +1,6 @@
-from src.mnist import init
-from src.mnist import load
 from src.network import Network
 import numpy as np
 import src.mnist_loader as mnist_loader
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
 
 
 # def test():
